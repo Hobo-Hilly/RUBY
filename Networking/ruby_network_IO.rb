@@ -2,7 +2,7 @@
 
 require 'socket'
 
-host = '50.116.20.151'
+host = '50.116.20.151'    
 port = 80
 path = "/"
 
